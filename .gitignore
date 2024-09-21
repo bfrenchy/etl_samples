@@ -1,3 +1,8 @@
+# ETL Docs
+pipeline.conf
+data_pipeline_readwrite_accessKeys.csv
+data_pipeline_readwrite_credentials.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
